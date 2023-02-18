@@ -13,6 +13,7 @@
 - **Telegram**: [@pazenkin](https://pazenkin.t.me/)
 - **LinkedIn**: [linkedin.com/in/pazenkin](https://www.linkedin.com/in/pazenkin/)
 
+
 ---
 
 # Коммерческие проекты
@@ -35,6 +36,7 @@
 ## Инструменты
 
 - Gamebase
+
 
 ---
 
