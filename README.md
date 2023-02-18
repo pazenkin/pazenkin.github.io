@@ -16,10 +16,8 @@
 
 # Коммерческие проекты
 
-Ниже представлены только проекты, на которые не распространяется NDA.
+Представлены только проекты, на которые не распространяется NDA.
 
-- Solitaire Tripeaks - Grand Tour Puzzle
+- [Solitaire Tripeaks - Grand Tour Puzzle](./tripeaks.html)
 - What a Blast
 - Флорист
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VwJ9ltNAWIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
