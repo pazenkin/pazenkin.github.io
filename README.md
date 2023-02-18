@@ -13,6 +13,8 @@
 - **Telegram**: [@pazenkin](https://pazenkin.t.me/)
 - **LinkedIn**: [linkedin.com/in/pazenkin](https://www.linkedin.com/in/pazenkin/)
 
+---
+
 # Коммерческие проекты
 
 > Представлены только проекты, на которые не распространяется NDA.
@@ -33,6 +35,8 @@
 ## Инструменты
 
 - Gamebase
+
+---
 
 # Личные проекты
 
