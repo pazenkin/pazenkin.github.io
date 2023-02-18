@@ -10,9 +10,9 @@
 
 ## Контакты
 
-- **Email**: pazenkin@ya.ru
+- **Email**: [pazenkin@ya.ru](mailto:pazenkin@ya.ru)
 - **Telegram**: [@pazenkin](https://pazenkin.t.me/)
-- **LinkedIn**: https://www.linkedin.com/in/pazenkin/
+- **LinkedIn**: [https://www.linkedin.com/in/pazenkin/](https://www.linkedin.com/in/pazenkin/)
 
 # Коммерческие проекты
 
