@@ -12,10 +12,10 @@ description: Unity-разработчик
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vd85Ph4ym3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![Screenshot](./img/what_a_blast/image0.jpg)
-![Screenshot](./img/what_a_blast/image1.jpg)
-![Screenshot](./img/what_a_blast/image2.jpg)
-![Screenshot](./img/what_a_blast/image3.jpg)
-![Screenshot](./img/what_a_blast/image4.jpg)
+<img src="./img/what_a_blast/image0.jpg" width="250" height="525" />
+<img src="./img/what_a_blast/image1.jpg" width="250" height="525" />
+<img src="./img/what_a_blast/image2.jpg" width="250" height="525" />
+<img src="./img/what_a_blast/image3.jpg" width="250" height="525" />
+<img src="./img/what_a_blast/image4.jpg" width="250" height="525" />
 
 ---
