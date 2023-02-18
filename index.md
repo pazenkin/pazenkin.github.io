@@ -1,12 +1,15 @@
 ---
 layout: default
+title: Павел Зенкин
+description: Портфолио Unity-разработчика
 ---
 
-# Тестовый заголовок
+# Кратко обо мне
 
-**Опыт коммерческой разработки**: 05.2020-н.в.
+## Опыт коммерческой разработки
+05.2020-н.в.
 
-**Технологический стек**:
+## Технологический стек
 - Unity, C#, Git;
 - [Zenject](https://github.com/modesttree/Zenject);
 - [DOTween](http://dotween.demigiant.com/), [Odin](https://odininspector.com/), [Doozy UI](https://www.doozyui.com/), [UniTask](https://github.com/Cysharp/UniTask);
@@ -18,7 +21,6 @@ layout: default
 - **Email**: [pazenkin@ya.ru](mailto:pazenkin@ya.ru)
 - **Telegram**: [@pazenkin](https://pazenkin.t.me/)
 - **LinkedIn**: [linkedin.com/in/pazenkin](https://www.linkedin.com/in/pazenkin/)
-
 
 ---
 
@@ -42,7 +44,6 @@ layout: default
 ## Инструменты
 
 - Gamebase
-
 
 ---
 
