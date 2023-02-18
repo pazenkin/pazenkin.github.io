@@ -7,14 +7,15 @@ description: Портфолио Unity-разработчика
 # Кратко обо мне
 
 ## Опыт коммерческой разработки
-05.2020-н.в.
+С мая 2020 года по настоящее время.
 
 ## Технологический стек
 - Unity, C#, Git;
 - [Zenject](https://github.com/modesttree/Zenject);
 - [DOTween](http://dotween.demigiant.com/), [Odin](https://odininspector.com/), [Doozy UI](https://www.doozyui.com/), [UniTask](https://github.com/Cysharp/UniTask);
 - [LeoECS Lite](https://github.com/Leopotam/ecslite), [Morpeh](https://github.com/scellecs/morpeh);
-- [Photon Engine PUN](https://www.photonengine.com/pun), [ARCore SDK](https://arvr.google.com/arcore/);
+- [Photon Engine PUN](https://www.photonengine.com/pun);
+- [ARCore SDK](https://arvr.google.com/arcore/);
 - Рекламные и аналитические SDK.
 
 ## Контакты
@@ -26,7 +27,7 @@ description: Портфолио Unity-разработчика
 
 # Коммерческие проекты
 
-> Представлены только проекты, на которые не распространяется NDA.
+> Представлены только проекты, на которые не распространяется NDA
 
 ## Полноценные проекты
 
