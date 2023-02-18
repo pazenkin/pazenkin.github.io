@@ -1,17 +1,6 @@
----
-layout: default
-title: Павел Зенкин
-description: Портфолио Unity-разработчика
----
+**Опыт коммерческой разработки**: 05.2020-н.в.
 
-# Краткое резюме
-
-## Опыт коммерческой разработки
-
-С мая 2020 по настоящее время.
-
-## Технологический стек
-
+**Технологический стек**:
 - Unity, C#, Git;
 - [Zenject](https://github.com/modesttree/Zenject);
 - [DOTween](http://dotween.demigiant.com/), [Odin](https://odininspector.com/), [Doozy UI](https://www.doozyui.com/), [UniTask](https://github.com/Cysharp/UniTask);
@@ -19,8 +8,7 @@ description: Портфолио Unity-разработчика
 - [Photon Engine PUN](https://www.photonengine.com/pun), [ARCore SDK](https://arvr.google.com/arcore/);
 - Рекламные и аналитические SDK.
 
-# Контакты
-
+## Контакты
 - **Email**: [pazenkin@ya.ru](mailto:pazenkin@ya.ru)
 - **Telegram**: [@pazenkin](https://pazenkin.t.me/)
 - **LinkedIn**: [linkedin.com/in/pazenkin](https://www.linkedin.com/in/pazenkin/)
