@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Павел Зенкин
-description: Портфолио Unity-разработчика
+description: Unity-разработчик
 ---
 
 # Кратко обо мне
