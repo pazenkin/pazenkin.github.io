@@ -63,5 +63,3 @@ _Представлены только проекты, на которые не 
 
 - [Addressables Helper](https://github.com/pazenkin/AddressablesHelper)
 > Небольшой инструмент для более удобной работы с адрессаблами Unity
-
----

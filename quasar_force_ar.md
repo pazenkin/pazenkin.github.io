@@ -1,9 +1,5 @@
 ---
-layout: default
+layout: project
 ---
-
-[<Назад](./)
 
 # Quasar Force AR
-
----
