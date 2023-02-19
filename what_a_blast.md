@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Павел Зенкин
-description: Unity-разработчик
 ---
 
 [<Назад](./)
