@@ -8,21 +8,11 @@ layout: project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vd85Ph4ym3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image0.jpg">
-    <img src="./img/what_a_blast/image0.jpg" width="125" height="265" />
-</a>
-<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image1.jpg">
-    <img src="./img/what_a_blast/image1.jpg" width="125" height="265" />
-</a>
-<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image2.jpg">
-    <img src="./img/what_a_blast/image2.jpg" width="125" height="265" />
-</a>
-<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image3.jpg">
-    <img src="./img/what_a_blast/image3.jpg" width="125" height="265" />
-</a>
-<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image4.jpg">
-    <img src="./img/what_a_blast/image4.jpg" width="125" height="265" />
-</a>
+<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image0.jpg"><img src="./img/what_a_blast/image0.jpg" width="125" height="265" /></a>
+<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image1.jpg"><img src="./img/what_a_blast/image1.jpg" width="125" height="265" /></a>
+<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image2.jpg"><img src="./img/what_a_blast/image2.jpg" width="125" height="265" /></a>
+<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image3.jpg"><img src="./img/what_a_blast/image3.jpg" width="125" height="265" /></a>
+<a href="https://raw.githubusercontent.com/pazenkin/pazenkin.github.io/main/img/what_a_blast/image4.jpg"><img src="./img/what_a_blast/image4.jpg" width="125" height="265" /></a>
 
 ---
 
