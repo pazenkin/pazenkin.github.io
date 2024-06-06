@@ -4,6 +4,10 @@ layout: default
 
 # Портфолио
 
+## Резюме
+
+[Получить в формате PDF](./files/Pavel_Zenkin.Unity_Developer.pdf)
+
 ## Технологический стек
 
 - Unity, C#, Git
