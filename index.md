@@ -3,10 +3,6 @@ layout: default
 ---
 
 # Портфолио
-<!-- 
-## Резюме
-
-[Получить в формате PDF](./files/Pavel_Zenkin.Unity_Developer.pdf) -->
 
 ## Технологический стек
 
@@ -16,12 +12,6 @@ layout: default
 - Рекламные и аналитические SDK
 
 Имеется также опыт работы с DOTS, Photon Engine PUN, [ARCore](https://arvr.google.com/arcore/), Python, Blender, ProBuilder и другими инструментами.
-<!-- 
-## Контакты
-
-- **LinkedIn**: [linkedin.com/in/pazenkin](https://www.linkedin.com/in/pazenkin/)
-- **Telegram**: [@pazenkin](https://pazenkin.t.me/)
-- **Email**: [pazenkin@ya.ru](mailto:pazenkin@ya.ru) -->
 
 ---
 ---
